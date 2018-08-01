@@ -12,15 +12,15 @@ The overview:
   - how to choos the right one 
 - Python:
   - good practices
-  - resources for begineers (programmers and non programmers)
+  - resources for beginners (programmers and non programmers)
 - Data Science
   - why using Python in data science
   - cleaning data 
   - models - building & tuning
-  - resources for begineers
+  - resources for beginners
 - How to learn: Projects + Cooperation + Contribution
 - Extra: JOSE
 
 [The orginal description](https://ep2018.europython.eu/conference/talks/how-can-you-use-open-source-materials-to-learn-python-data-science)
 
-Anna Gut, Kamil Kaczmarek, Piotr Migdał - thank you for your help in preparing these slides.
+Anna Gut, Dennis Dennis Van Der Vecht, Kamil Kaczmarek, Piotr Migdał & 10Clouds - thank you for your help in preparing these slides.
