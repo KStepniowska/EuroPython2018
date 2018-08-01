@@ -1,7 +1,7 @@
 # EuroPython2018
 Please find the slides from my talk "How You Can Use Open Source Materials to Learn Python &amp; Data Science". The talk has been orginaly performed at EuroPython 2018 in Edinburgh (July 26th, 2018).
 
-You can think of this slides as resource library and in a limited guideline. 
+You can think of this slides as a resource library and in a limited guideline. 
 
 [The Slides](https://docs.google.com/presentation/d/1QMyjTOMR17IpzDEPxY2hV2-dw365P3AsZzbmWrpmfGU/edit?usp=sharing)
 
